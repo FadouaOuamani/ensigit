@@ -2,4 +2,15 @@ séance sur git et docker à l'ENSI
 
 Les commandes de base de git
 
-git status 
+git status : état du code
+git add . : track the modif
+git commit -m"Message": appliquer les changements
+git log : qui a modifié quoi 
+
+git config --global user.email "email"
+git config --global user.name "Name"
+git branch: display branches, if you didn't create any branch it will display ontly master branch
+
+git checkout -b fadoua: to create and go to another branch/or Simply go to another branch (without -b)
+
+code . (il faut installer vs code pour travailler autrement)/et ouvrir un terminal 
