@@ -18,3 +18,5 @@ code . (il faut installer vs code pour travailler autrement)/et ouvrir un termin
 git merge master : pour fusionner ce qui a été fait dans les autres branches dans la branche master
 
 git add toujours avant git commit : pour valider la version actuelle
+
+git push origin master: after the first push, we use only this
